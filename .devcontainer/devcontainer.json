@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "pip install -r docs/requirements.txt",
+    "launch": "make run"
+  }
+}
