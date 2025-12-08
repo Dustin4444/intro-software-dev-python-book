@@ -26,3 +26,4 @@ lxml # bs4 needs this to parse XML
 
 
 #gspread==6.0.2
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
